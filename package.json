@@ -16,6 +16,7 @@
     "wite": "^2.9.15"
   },
   "devDependencies": {
+    "snowpack": "^3.8.8",
     "vite": "^4.0.4",
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.11.1"
